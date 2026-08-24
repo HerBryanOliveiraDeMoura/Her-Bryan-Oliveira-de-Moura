@@ -1,11 +1,10 @@
-# Olá, eu sou o Her!
+# 👋Olá, eu sou o Her!
 
-- Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
-- Contato: herb68791@gmail.com
+- 🎓Estudante de Desenvolvimento de Sistemas
+- 💻Focado em Python, HTML e CSS
+- 🚀Preparando-se para o mercado de tecnologia
 
-## Sobre mim
+## 🙋‍♂️Sobre mim
 
 Sou estudante de Desenvolvimento de Sistemas. Atualmente, estou aprendendo Python e desenvolvendo meus conhecimentos em programação. Futuramente, pretendo focar meus estudos em Java, buscando ampliar minhas habilidades no desenvolvimento de software. Meu objetivo é cursar Engenharia de Software e construir uma carreira na área de tecnologia. Estou sempre disposto a aprender, enfrentar novos desafios e adquirir novas experiências. Aqui no GitHub, compartilho meus estudos, projetos e minha evolução como desenvolvedor.
 
@@ -15,7 +14,7 @@ Sou estudante de Desenvolvimento de Sistemas. Atualmente, estou aprendendo Pyth
  <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  
-## Como me encontrar
+## 📫Como me encontrar
 
 
  
