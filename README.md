@@ -1,2 +1,5 @@
-# Her-Bryan-Oliveira-de-Moura
-Sou estudante de Desenvolvimento de Sistemas. Atualmente, estou aprendendo Python e desenvolvendo meus conhecimentos em programação. Futuramente, pretendo focar meus estudos em Java, buscando ampliar minhas habilidades no desenvolvimento de software. Meu objetivo é cursar Engenharia de Software e construir uma carreira na área de tecnologia.
+# Olá, eu sou o Her!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS
+- Preparando-se para o mercado de tecnologia
+- Contato: herb68791@gmail.com
